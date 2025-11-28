@@ -5,7 +5,8 @@
 This project was built to practice React basics like components, props, and hooks.
 
 ---
-bhak 
+bhak muji
+
 
 ## 🌐 Live Demo
 👉 [react-movie-search-rust.vercel.app](https://react-movie-search-rust.vercel.app)
@@ -31,6 +32,7 @@ to fetch movie details dynamically.
 - **JavaScript**  
 - **CSS**  
 - **TMDb API**  
+
 
 
 
