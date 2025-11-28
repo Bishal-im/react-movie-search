@@ -5,7 +5,6 @@
 This project was built to practice React basics like components, props, and hooks.
 
 ---
-bhak muji
 
 
 ## 🌐 Live Demo
@@ -32,6 +31,7 @@ to fetch movie details dynamically.
 - **JavaScript**  
 - **CSS**  
 - **TMDb API**  
+
 
 
 
